@@ -6,8 +6,8 @@ I'm a first year student at [Innopolis University](https://innopolis.university/
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning C++, Golang, and Backend Dev.
+- 💡 Fun fact: My favourite Netflix show is Black Mirror because it sparks thoughts about how technology changes our lives, yet, I think technology is also the best humanity can do. So is Black Mirror an eventuality????? :)
+- 🌱 I’m currently learning ML, Mathematics and working on ML related projects.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
 ---
