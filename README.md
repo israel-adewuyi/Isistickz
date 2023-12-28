@@ -14,4 +14,4 @@ I'm a second year student at [Innopolis University](https://innopolis.university
 | ------------- | ------------- |
 
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isistickz&layout=compact&theme=blue-white)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israel-adewuyi&layout=compact&theme=blue-white)
